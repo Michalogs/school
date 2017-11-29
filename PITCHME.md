@@ -4,7 +4,7 @@ An application architecture for React
 
 ---
 
-### Flux Design
+# Flux Design
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
